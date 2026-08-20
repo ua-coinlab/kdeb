@@ -59,7 +59,7 @@ window.REPORTS_DATA = [
     "year": 2026,
     "month": "April",
     "reportNo": "2026008",
-    "authors": "Raj, S., McKendrick, R, Feest, B., and Deb, K. and Raj, S",
+    "authors": "Raj, S., McKendrick, R, Feest, B., and Deb, K",
     "title": "Towards Balanced Wargames: A Multi-Objective Co-Evolutionary Adversarial Approach for Full-Game and Meta-Game Balance",
     "pdf": "papers/c2026008.pdf",
     "sizeText": "11.0MB"
